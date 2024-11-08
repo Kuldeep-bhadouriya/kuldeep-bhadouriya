@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kuldeepsinghbhadouriya1093@gmail.com**
 
-- ⚡ Fun fact **I am also a freelance as a Video Editor.**
+- ⚡ Fun fact **I am also a freelancer as a Video Editor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
