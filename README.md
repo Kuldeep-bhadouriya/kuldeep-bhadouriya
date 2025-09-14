@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Singh Bhadouriya</h1>
 <h3 align="center">A passionate Software Engineer pursuing B.Tech CSE</h3>
 
-- 🔭 I’m currently working on **my full stack portfolio website**
+- 🔭 I’m currently working on **AI/ML Project**
 
-- 🌱 I’m currently learning **React JS and C++**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 📫 How to reach me **kuldeepsinghbhadouriya1093@gmail.com**
 
-- ⚡ Fun fact **I am also a freelancer as a Video Editor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
