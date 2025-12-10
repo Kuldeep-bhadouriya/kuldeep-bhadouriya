@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Kuldeep Singh Bhadouriya 👋</h1>
-<h3 align="center">A 3rd-year B.Tech Computer Science student from ITM Gwalior, focused on building real-world products with modern web technologies and solid fundamentals. I enjoy turning ideas into working projects, from college event platforms to community-driven tools for developers.</h3>
+<h3 align="center">A 2rd-year B.Tech Computer Science student from ITM Gwalior, focused on building real-world products with modern web technologies and solid fundamentals. I enjoy turning ideas into working projects, from college event platforms to community-driven tools for developers.</h3>
 
 🚀 About Me
 🎓 B.Tech CSE @ ITM Gwalior
