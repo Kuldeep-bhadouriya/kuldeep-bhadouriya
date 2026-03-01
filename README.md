@@ -1,8 +1,7 @@
 <h1 align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=33&pause=1000&color=F73AB9&center=true&vCenter=true&repeat=false&random=true&width=600&height=70&lines=KULDEEP+SINGH+BHADOURIYA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&weight=900&size=40&pause=1000&color=F73AB9&center=true&vCenter=true&repeat=false&random=true&width=800&height=70&lines=KULDEEP+SINGH+BHADOURIYA" alt="Typing SVG" /></a>
 <p align='center'>
-<a href="https://github.com/Kuldeep-Bhadouriya">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73187&center=true&vCenter=true&random=true&width=700&height=50&lines=B.Tech+CSE+Student+@+ITM+Gwalior;Passionate+Full+Stack+Developer;Building+Real-World+Products;C%2B%2B+%7C+React+%7C+Next.js+%7C+Node.js;Always+Learning+%26+Creating" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=20&pause=1000&color=F73187&center=true&vCenter=true&random=true&width=800&height=50&lines=B.Tech+CSE+Student+@+ITM+Gwalior;Passionate+Full+Stack+Developer;Building+Real-World+Products;C%2B%2B+%7C+React+%7C+Next.js+%7C+Node.js;Always+Learning+%26+Creating" alt="Typing SVG" />
 </p>
 
 <p align="center">
